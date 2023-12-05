@@ -71,7 +71,7 @@ const Intro = () => {
           Welcome!
           <br />
           <span style={{ fontSize: "35px" }}>
-            I am a <span style={{ color: "#bf9467" }}>Frontend Developer</span>
+            I am a <span style={{ color: "#bf9467" }}>Front End Developer</span>
           </span>
         </h1>
 
